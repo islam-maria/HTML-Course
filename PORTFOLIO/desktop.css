@@ -62,7 +62,7 @@ background-color: transparent;
 .profile .bottom-weather{
      width:120px;
     left:60px;
-    bottom: 60px;
+    bottom: 30px;
     transition:width 2s, transform 2s;
     border-radius: 50%;
     
@@ -79,7 +79,7 @@ h1{
   
   }
   .profile-desc p{
-      color:gray;
+      color:rgb(27, 26, 26);
       text-align: center;
       width: 90%;
       margin: 0 auto 20px auto;

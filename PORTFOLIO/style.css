@@ -147,8 +147,8 @@ p{
 .about-me-img img{
     border: 3px solid white;
     border-radius: 50%;
-    height: 220px; 
-    width:170px;
+    height: 120px; 
+    width:160px;
 }
 .aboutme p{
     text-align: center;
@@ -163,6 +163,9 @@ p{
     padding: 15px;
     font-size: 20px;
     text-align: center;
+}
+.cv-button:hover{
+    background-color:cadetblue;
 }
 .aboutme::after{
     content: '';
