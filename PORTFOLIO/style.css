@@ -103,12 +103,14 @@ body{
     display: flex;
     gap: 30px;
     margin-bottom: 50px;
+    
 }
-.links{
+.links {
     display: flex;
     gap:30px;
     align-items: center;
     text-align: center;
+    justify-content: center;
 }
 
 .github img {
